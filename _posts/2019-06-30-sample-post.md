@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample post
+title: 샘플 뽀스뜨!
 tags: [A Tag, Test, Lorem, Ipsum]
 excerpt_separator: <!--more-->
 ---
